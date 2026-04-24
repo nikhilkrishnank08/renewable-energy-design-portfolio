@@ -6,7 +6,7 @@ demonstrate technical competence for design engineering roles.
 
 **Author**: Nikhil Krishnan Karthikeyan Nair
 **Background**: BEng Mechanical Engineering, MSc Business Analytics
-**Location**: Cork, Ireland
+**Location**:Ireland
 
 ## Contents
 
